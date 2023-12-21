@@ -21,6 +21,7 @@ export class AppComponent {
     BarcodeFormat.DATA_MATRIX,
     BarcodeFormat.EAN_13,
     BarcodeFormat.QR_CODE,
+    BarcodeFormat.PDF_417,
   ];
 
   hasDevices: boolean;
